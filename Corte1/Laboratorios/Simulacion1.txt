@@ -1,2 +1,3 @@
-Simulacion en wokwi.... ESP32 UN SOLO LED: LENGUAJE C++
-https://wokwi.com/projects/456882400116131841
+Simulacion wokwi ESP32 
+UN LED: LENGUAJE C++
+https://wokwi.com/projects/459428389671316481
