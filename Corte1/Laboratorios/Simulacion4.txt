@@ -1,2 +1,2 @@
-ESP32 8 LEDS BOTON
+ESP32 8 LEDS y BOTON Py
 https://wokwi.com/projects/459431897803343873
